@@ -544,7 +544,6 @@
 		01D29E632505C31D00BAFB24 /* FCPerpetualEntrustModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FCPerpetualEntrustModel.swift; sourceTree = "<group>"; };
 		01DF50F124992D2200A36D37 /* FCCustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FCCustomTableViewCell.swift; sourceTree = "<group>"; };
 		01DF50F424992DB200A36D37 /* FCSelectForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FCSelectForm.swift; sourceTree = "<group>"; };
-		01DF50F6249BB7E400A36D37 /* FCMIneTabHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FCMIneTabHeaderView.swift; sourceTree = "<group>"; };
 		01DF50FB249E26EB00A36D37 /* FCApi_account_register.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FCApi_account_register.h; sourceTree = "<group>"; };
 		01DF50FC249E26EB00A36D37 /* FCApi_account_register.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FCApi_account_register.m; sourceTree = "<group>"; };
 		01DF50FE249E29B600A36D37 /* FCApi_captcha_send.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FCApi_captcha_send.h; sourceTree = "<group>"; };
@@ -1634,7 +1633,6 @@
 			children = (
 				D21E36F9214763AD0049CD04 /* FCCommonCell.swift */,
 				D21E36FA214763AD0049CD04 /* FCCommonCell.xib */,
-				01DF50F6249BB7E400A36D37 /* FCMIneTabHeaderView.swift */,
 			);
 			path = FCMineView;
 			sourceTree = "<group>";
